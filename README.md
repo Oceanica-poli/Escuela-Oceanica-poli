@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Oceanica-poli/Escuela-Oceanica-poli/blob/main/PORTADA.jpg?raw=true" alt="Portada Oceánica Infantil" width="100%">
+  <img src="https://github.com/Oceanica-poli/Escuela-Oceanica-poli/blob/master/PORTADA.jpg?raw=true" alt="Portada Oceánica Infantil" width="100%">
 </p>
 
 # Sistema de Gestión y Seguimiento del Proceso Formativo en la Academia de Natación Oceánica
@@ -49,7 +49,7 @@ Desarrollar un sistema de información que permita gestionar el historial de los
 El proyecto abarca el diseño, desarrollo y puesta en producción de un sistema de información web organizado en **7 módulos principales**:
 
 <p align="center">
-  <img src="https://github.com/Oceanica-poli/Escuela-Oceanica-poli/blob/main/MODULOS.jpg?raw=true" alt="Módulos del Sistema" width="100%">
+  <img src="https://github.com/Oceanica-poli/Escuela-Oceanica-poli/blob/master/MODULOS.jpg?raw=true" alt="Módulos del Sistema" width="100%">
 </p>
 
 ### 🧩 Detalle de Módulos
@@ -90,7 +90,7 @@ El proyecto abarca el diseño, desarrollo y puesta en producción de un sistema 
 ## 🛠️ Aspectos Técnicos y Arquitectura
 
 <p align="center">
-  <img src="https://github.com/Oceanica-poli/Escuela-Oceanica-poli/blob/main/TECNOLOGIAS.jpg?raw=true" alt="Stack Tecnológico" width="100%">
+  <img src="https://github.com/Oceanica-poli/Escuela-Oceanica-poli/blob/master/TECNOLOGIAS.jpg?raw=true" alt="Stack Tecnológico" width="100%">
 </p>
 
 * **Base de datos:** MySQL administrada en MySQL Workbench. Modelo E-R normalizado hasta **3FN** *(Usuario, Rol, Estudiante, Profesor, Clase, Inscripción, Asistencia, Evaluación de Progreso e Historial)*.
