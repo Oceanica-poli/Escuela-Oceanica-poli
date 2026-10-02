@@ -77,3 +77,9 @@ Funcionalidades como el acceso al sistema, el cierre de sesión, el registro ini
 - **Arquitectura:** en capas (Modelo–Repositorio–Servicio–Controlador), aplicando Programación Orientada a Objetos, con una clase base `Usuario` de la que heredan `Estudiante` y `Profesor`.
 - **Estructuras de datos:** listas, diccionarios/mapas y colas para el manejo de colecciones, búsquedas y procesamiento de tareas internas.
 - **Tecnologías:** JavaScript/TypeScript, backend en Node.js y Express, frontend en React con HTML y CSS, y base de datos MySQL.
+## Instalación
+
+\`\`\`bash
+cd backend && npm install
+cd ../frontend && npm install
+\`\`\`
